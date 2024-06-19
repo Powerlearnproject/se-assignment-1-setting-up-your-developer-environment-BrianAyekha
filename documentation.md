@@ -1,15 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vbnbTt5m)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15288448&assignment_repo_type=AssignmentRepo)
-# Dev_Setup
-Setup Development Environment
-
-#Assignment: Setting Up Your Developer Environment
-
-#Objective:
-This assignment aims to familiarize you with the tools and configurations necessary to set up an efficient developer environment for software engineering projects. Completing this assignment will give you the skills required to set up a robust and productive workspace conducive to coding, debugging, version control, and collaboration.
-
-#Tasks:
-
 # 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 Step 1: Choose and Install Your Operating System (OS)#
@@ -19,7 +7,7 @@ Go to the Windows 11 download page.
 Follow the instructions to download the Windows 11 Installation Assistant or create a bootable USB drive.
 Run the Installation Assistant or boot from the USB drive to start the installation process.
 Follow the on-screen instructions to complete the installation.
-
+![alt text](<Screenshot 2024-06-19 142108-1.png>)
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
    Step 2: Install a Text Editor or Integrated Development Environment (IDE)
@@ -29,19 +17,21 @@ Go to the Visual Studio Code download page.
 Download the appropriate installer for your OS.
 Run the installer and follow the on-screen instructions to complete the installation.
 Once installed, open Visual Studio Code and customize it according to your preferences.
+![alt text](<Screenshot 2024-06-19 142203-1.png>)
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
    Step 3: Set Up Version Control System
 Install Git and Create a GitHub Account
-
+![alt text](<Screenshot 2024-06-19 212014-1.png>)
 Go to the Git download page.
 Download the installer for your OS and run it.
 Follow the on-screen instructions to install Git.
+![alt text](<Screenshot 2024-06-19 142433-1.png>)
 Configure Git with your user name and email:
 bash
 Copy code
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+git config --global user.name "brianayekha"
+git config --global user.email "brianaykha50"gmail.com"
 Go to GitHub and sign up for a new account.
 Create a new repository on GitHub.
 Initialize a Git Repository
@@ -77,7 +67,7 @@ Go to the Python download page.
 Download the installer for your OS.
 Run the installer and ensure you check "Add Python to PATH" before installing.
 Follow the on-screen instructions to complete the installation.
-
+![alt text](<Screenshot 2024-06-19 142820-1.png>)
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
 Step 5: Install Package Managers
@@ -91,7 +81,7 @@ If not installed, you can install it manually:
 bash
 Copy code
 python -m ensurepip --upgrade
-
+![alt text](<Screenshot 2024-06-19 143029-1.png>)
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 Step 6: Configure a Database (MySQL)
@@ -120,24 +110,4 @@ Prettier - Code formatter
 Docker
 flutter
 dart
-
-
-9. Document Your Setup:
-    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
-
-#Deliverables:
-- Document detailing the setup process with step-by-step instructions and screenshots where necessary.
-- A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
-- A reflection on the challenges faced during setup and strategies employed to overcome them.
-
-#Submission:
-Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
-
-#Evaluation Criteria:**
-- Completeness and accuracy of setup documentation.
-- Effectiveness of version control implementation.
-- Appropriateness of tools selected for the project requirements.
-- Clarity of reflection on challenges and solutions encountered.
-- Adherence to submission guidelines and deadlines.
-
-Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+![alt text](<Screenshot 2024-06-19 211345-1.png>)
